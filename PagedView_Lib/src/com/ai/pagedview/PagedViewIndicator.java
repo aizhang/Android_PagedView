@@ -14,6 +14,11 @@ import android.view.animation.Animation;
 import android.view.animation.Animation.AnimationListener;
 import android.view.animation.AnimationUtils;
 
+/**
+ * 
+ * @author Isaiah Cheung
+ *
+ */
 public class PagedViewIndicator extends View implements PagedViewListener,
 		AnimationListener {
 	private static final int INVALID_INDEX = -1;

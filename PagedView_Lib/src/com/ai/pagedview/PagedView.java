@@ -31,6 +31,11 @@ import android.widget.Scroller;
 
 import com.doodleapp.pagedview.R;
 
+/**
+ * 
+ * @author Isaiah Cheung
+ *
+ */
 public class PagedView extends ViewGroup implements
 		ViewGroup.OnHierarchyChangeListener {
 	protected static final String TAG = "PagedView";
